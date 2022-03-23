@@ -6,6 +6,7 @@ Below you can see the languages I have used or will use.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323230?style=flat&logo=javascript&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/NodeJS%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-2ea44f?logo=solidity)
+![Rust](https://img.shields.io/badge/Rust-262626?logo=rust)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
 ![GoLang](https://img.shields.io/badge/GoLang-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
