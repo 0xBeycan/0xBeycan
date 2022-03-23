@@ -3,11 +3,11 @@ Hello, I'm Khalil. I am a web and blockchain developer. I really enjoy learning 
 Below you can see the languages I have used or will use.
 
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat&logo=PHP&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323230?style=flat&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-171717?logo=solidity)
 ![Rust](https://img.shields.io/badge/Rust-262626?logo=rust)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3275A9?logo=python&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
 ![GoLang](https://img.shields.io/badge/GoLang-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 
