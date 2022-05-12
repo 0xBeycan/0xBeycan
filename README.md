@@ -1,4 +1,4 @@
-Hello, I'm Khalil. I am a web and blockchain developer. I really enjoy learning new technologies. Blockchain world in particular really takes me away.
+Hello, I'm Halil. I am a web and blockchain developer. I really enjoy learning new technologies. Blockchain world in particular really takes me away.
 
 Below you can see the languages I have used or will use.
 
