@@ -7,9 +7,9 @@ Below you can see the languages I have used or will use.
 ![NodeJS](https://img.shields.io/badge/NodeJS%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-171717?logo=solidity)
 ![Rust](https://img.shields.io/badge/Rust-262626?logo=rust)
+![GoLang](https://img.shields.io/badge/GoLang-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3275A9?logo=python&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
-![GoLang](https://img.shields.io/badge/GoLang-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 
 ![My used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beycandeveloper&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
