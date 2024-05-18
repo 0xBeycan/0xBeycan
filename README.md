@@ -10,6 +10,7 @@ Below you can see the languages I have used or will use.
 ![GoLang](https://img.shields.io/badge/GoLang-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3275A9?logo=python&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
+![Crystal](https://img.shields.io/badge/Crystal-171717.svg?&style=flat&logo=crystal&logoColor=white)
 
 ![My used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beycandeveloper&layout=compact&langs_count=10&hide=html,smarty,javascript)
 
