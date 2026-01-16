@@ -13,8 +13,6 @@ Below you can see the languages I have used or will use.
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-171717.svg?&style=flat&logo=crystal&logoColor=white)
 
-![My used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBeycan&layout=compact&langs_count=10&hide=html,smarty,javascript)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xBeycan&label=Profile%20views&color=0e75b6&style=flat" alt="Halil Beycan" /> </p>
 
 My other links.
