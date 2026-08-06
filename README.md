@@ -1,20 +1,98 @@
-Hello, I'm Halil. I am a web and blockchain developer. I really enjoy learning new technologies. Blockchain world in particular really takes me away.
+# Halil Beycan
 
-Below you can see the languages I have used or will use.
+All notable changes to this developer are documented in this file.
+Versioning is semantic. Pivots are breaking.
 
-![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat&logo=PHP&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-171717?logo=solidity)
-![Rust](https://img.shields.io/badge/Rust-262626?logo=rust)
-![GoLang](https://img.shields.io/badge/GoLang-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3275A9?logo=python&logoColor=fff)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
-![Crystal](https://img.shields.io/badge/Crystal-171717.svg?&style=flat&logo=crystal&logoColor=white)
+## [Unreleased]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xBeycan&label=Profile%20views&color=0e75b6&style=flat" alt="Halil Beycan" /> </p>
+### Planned
+- TTS — voice synthesis
+- LLM personalities — chatbots that hold character
 
-My other links.
+```ts
+type SomeDay = Promise<Beautiful>   // pending
+```
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xBeycan/)](https://www.linkedin.com/in/0xBeycan/)
+## [3.0.0] — 2026
+
+### BREAKING CHANGE
+- Web3 → generative AI. No backwards compatibility.
+
+### Added
+- ComfyUI — pipeline architecture, custom nodes, LoRA training
+- Diffusion models — text-to-image, text-to-video, image-to-video
+- Open-source ComfyUI extensions, MIT
+- Python — I direct, Claude types. Full disclosure.
+
+## [2.4.1] — Nov 2025
+
+### Changed
+- Nothing shipped. Ranked queue.
+
+### Deprecated
+- Writing code by hand
+
+## [2.4.0] — 2025
+
+### Added
+- [EIG Estate](https://github.com/eigestate/program) — fractional real estate on Solana. CertiK audited, 0 critical.
+- [Elowen](https://elowen.ai) — decentralized roleplay chat on Solana. Token distribution written so the team can't exceed its own allocation. The contract enforces the promise instead of the team.
+
+## [2.3.0] — 2024
+
+### Changed
+- CryptoPay rewritten for multi-chain — Bitcoin, Solana, Tron
+
+### Added
+- [MultipleChain](https://github.com/MultipleChain/js) — one TypeScript interface for EVM, Solana, Bitcoin and more. Built because writing each chain separately stopped scaling.
+- [TronSocket](https://devpost.com/software/tronsocket-websocket-transaction-event-listener-for-tron) — Tron had no WebSocket support, so I ran the node and exposed it as a service. 1st place, HackaTRON Season 7.
+- Rust, Tact — first contracts outside the EVM
+
+## [2.2.0] — 2023
+
+### Changed
+- Deployment region: Turkey → Taiwan
+- BeycanPress incorporated
+
+## [2.1.0] — 2022
+
+### Added
+- Walogin — MetaMask login for WordPress
+- TokenICO — token presale on WordPress, EVM only at launch
+
+### Removed
+- Backend role at Path. Went full-time on my own products.
+
+## [2.0.0] — 2021
+
+### BREAKING CHANGE
+- WordPress → Web3
+
+### Added
+- [CryptoPay](https://beycanpress.com/cryptopay) — non-custodial crypto gateway for WooCommerce. Ethereum and BNB Chain at launch. Maintained ever since.
+- BP Story — Instagram-style stories for WordPress. First thing I ever sold.
+- Solidity, TypeScript
+- Backend role at Path — PHP and Symfony on tuttur.com
+
+## [1.1.0] — May 2019
+
+### Added
+- This account. Started writing code where other people could see it.
+
+## [1.0.0] — 2018
+
+### BREAKING CHANGE
+- Desktop → web
+
+### Added
+- PHP, WordPress, small client jobs
+
+## [0.1.0] — 2015
+
+### Added
+- VB.NET desktop applications
+- Initial commit
+
+---
+
+[halilbeycan.com](https://halilbeycan.com) · [beycanpress.com](https://beycanpress.com)
