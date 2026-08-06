@@ -5,7 +5,7 @@ Versioning is semantic. Pivots are breaking.
 
 ## [Unreleased]
 
-### Planned
+### Backlog
 - TTS — voice synthesis
 - LLM personalities — chatbots that hold character
 
@@ -13,27 +13,30 @@ Versioning is semantic. Pivots are breaking.
 type SomeDay = Promise<Beautiful>   // pending
 ```
 
-## [3.0.0] — 2026
+## [3.0.0] — Feb 2026
 
 ### BREAKING CHANGE
-- Web3 → generative AI. No backwards compatibility.
+- Web3 → generative AI
 
 ### Added
 - ComfyUI — pipeline architecture, custom nodes
 - Diffusion models — text-to-image, text-to-video, image-to-video, LoRA training
 - Open-source ComfyUI extensions, MIT
-- Python — I direct, Claude types. Full disclosure.
+- Python
+
+### Deprecated
+- Web3 stack — still running, maintenance only. Critical fixes only. No new features, probably.
+
+### Dependencies
+- Added `claude` — required, not optional
 
 ## [2.4.1] — Nov 2025
-
-### Changed
-- Nothing shipped. Ranked queue.
 
 ### Deprecated
 - Writing code by hand
 
 ### Known Issues
-- Shipped two audited Solana programs this year. Remember none of it.
+- Shipped two Solana programs this year. Remember none of it.
   Only remember the ranked queue.
 
 ## [2.4.0] — 2025
@@ -45,8 +48,8 @@ type SomeDay = Promise<Beautiful>   // pending
 ## [2.3.0] — 2024
 
 ### Changed
-- CryptoPay rewritten for multi-chain supports
-- TokenICO rewritten for multi-chain supports
+- CryptoPay rewritten for multi-chain support
+- TokenICO rewritten for multi-chain support
 
 ### Added
 - [MultipleChain](https://github.com/MultipleChain/js) — one TypeScript interface for EVM, Solana, Bitcoin and more. Built because writing each chain separately stopped scaling.
