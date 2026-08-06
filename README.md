@@ -19,8 +19,8 @@ type SomeDay = Promise<Beautiful>   // pending
 - Web3 → generative AI. No backwards compatibility.
 
 ### Added
-- ComfyUI — pipeline architecture, custom nodes, LoRA training
-- Diffusion models — text-to-image, text-to-video, image-to-video
+- ComfyUI — pipeline architecture, custom nodes
+- Diffusion models — text-to-image, text-to-video, image-to-video, LoRA training
 - Open-source ComfyUI extensions, MIT
 - Python — I direct, Claude types. Full disclosure.
 
@@ -32,6 +32,10 @@ type SomeDay = Promise<Beautiful>   // pending
 ### Deprecated
 - Writing code by hand
 
+### Known Issues
+- Shipped two audited Solana programs this year. Remember none of it.
+  Only remember the ranked queue.
+
 ## [2.4.0] — 2025
 
 ### Added
@@ -41,7 +45,8 @@ type SomeDay = Promise<Beautiful>   // pending
 ## [2.3.0] — 2024
 
 ### Changed
-- CryptoPay rewritten for multi-chain — Bitcoin, Solana, Tron
+- CryptoPay rewritten for multi-chain supports
+- TokenICO rewritten for multi-chain supports
 
 ### Added
 - [MultipleChain](https://github.com/MultipleChain/js) — one TypeScript interface for EVM, Solana, Bitcoin and more. Built because writing each chain separately stopped scaling.
