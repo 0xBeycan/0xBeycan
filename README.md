@@ -7,11 +7,15 @@ Versioning is semantic. Pivots are breaking.
 
 ### Backlog
 - TTS — voice synthesis
-- LLM personalities — chatbots that hold character
+- LM personalities — chatbots that hold character
 
 ```ts
 type SomeDay = Promise<Beautiful>   // pending
 ```
+## [3.1.0] — Sep 2026
+ 
+### Added
+- LM's
 
 ## [3.0.0] — Feb 2026
 
