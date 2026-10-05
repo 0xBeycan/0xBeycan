@@ -16,6 +16,7 @@ type SomeDay = Promise<Beautiful>   // pending
 ### Added
 - LM's
 - TTS — voice synthesis
+- Video models with TTS
 
 ## [3.0.0] — Feb 2026
 
